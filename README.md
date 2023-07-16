@@ -1,6 +1,6 @@
-# seat_finder
+# Seat Finder
 
-A new Flutter project.
+A New Seat Finder App In Flutter.
 
 ## Getting Started
 
